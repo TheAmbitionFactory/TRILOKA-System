@@ -50,14 +50,7 @@ expensive, and mostly imported.
 ---
 
 ## System Architecture
-GARUD (UAV)
-        │  ELRS Telemetry
-        ▼
-  VARUNA (Mothership) ◄──── Operator Ground Station
-[Jetson Nano Super]         (LoRa / 5G Mesh)
-        │  Fiber Optic Tether
-        ▼
-   MATSYA (ROV)
+
    <img width="488" height="512" alt="System Architecture-TRILOKA System" src="https://github.com/user-attachments/assets/56af25b6-83f8-477f-ad20-2e4477f8413e" />
 
 
