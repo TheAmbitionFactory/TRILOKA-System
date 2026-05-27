@@ -32,9 +32,9 @@ expensive, and mostly imported.
 ## Key Features
 
 -  **Edge AI** -- NVIDIA Jetson Nano Super for real-time threat & crack detection
--  **Passive Moon Pool** -- Silent underwater deployment via water pressure equalisation
+-  **Passive Moon Pool** -- Silent underwater deployment via passive water pressure equalisation
 -  **Multi-Protocol Comms** -- ELRS (UAV) + Fiber Optic Tether (ROV) + LoRa/5G (Vessel)
--  **Extended Endurance** -- LiPo Battery + integrated flexible solar panels
+-  **Extended Endurance** -- LiPo Battery + integrated flexible solar panels + wave turbine's
 -  **Make in India** -- Fiberglass-reinforced EPS hull, designed for local manufacturing
 -  **Cost** -- Full prototype under ₹35 Lakhs vs. global equivalents at ₹25 Crore+
 
