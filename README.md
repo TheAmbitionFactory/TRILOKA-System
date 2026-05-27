@@ -2,7 +2,7 @@
 ### Autonomous Tri-Domain Robotic Exploration System for Civil & Defence Maritime Operations
 
 
-> **India Innovates 2026 Finalist** — Bharat Mandapam, New Delhi
+> **India Innovates 2026 Finalist** -- Bharat Mandapam, New Delhi
 
 
 ---
@@ -10,8 +10,8 @@
 ## Overview
 
 TRILOKA Systems is an indigenous, low-cost autonomous platform that 
-simultaneously operates across three domains — air, surface, and 
-underwater — in a single coordinated mission.
+simultaneously operates across three domains - air, surface, and 
+underwater - in a single coordinated mission.
 
 Built for monitoring India's 7,500+ km coastline, 5,000+ large dams, 
 and strategic harbours, where current solutions are single-domain, 
@@ -31,12 +31,12 @@ expensive, and mostly imported.
 
 ## Key Features
 
-- 🧠 **Edge AI** — NVIDIA Jetson Nano Super for real-time threat & crack detection
-- 🌊 **Passive Moon Pool** — Silent underwater deployment via water pressure equalisation
-- 📡 **Multi-Protocol Comms** — ELRS (UAV) + Fiber Optic Tether (ROV) + LoRa/5G (Vessel)
-- ☀️ **Extended Endurance** — LiPo Battery + integrated flexible solar panels
-- 🇮🇳 **Make in India** — Fiberglass-reinforced EPS hull, designed for local manufacturing
-- 💰 **Cost** — Full prototype under ₹35 Lakhs vs. global equivalents at ₹25 Crore+
+-  **Edge AI** -- NVIDIA Jetson Nano Super for real-time threat & crack detection
+-  **Passive Moon Pool** -- Silent underwater deployment via water pressure equalisation
+-  **Multi-Protocol Comms** -- ELRS (UAV) + Fiber Optic Tether (ROV) + LoRa/5G (Vessel)
+-  **Extended Endurance** -- LiPo Battery + integrated flexible solar panels
+-  **Make in India** -- Fiberglass-reinforced EPS hull, designed for local manufacturing
+-  **Cost** -- Full prototype under ₹35 Lakhs vs. global equivalents at ₹25 Crore+
 
 ---
 
@@ -46,7 +46,7 @@ expensive, and mostly imported.
 - **Framework:** ROS2 Humble
 - **Vision:** OpenCV, YOLOv8, GStreamer
 - **Navigation:** ArduPilot, ArduSub, MAVLink, EKF3
-- **Sensors:** RPLIDAR A3, Echo Sounder, IR Camera, Waveshare HD Camera
+- **Sensors:** RPLIDAR A3, Echo Sounder, IR Camera, Waveshare HD Camera, Thermal Camera
 - **Communication:** ELRS, LoRa, 5G Mesh, Fiber Optic Tether
 
 ---
@@ -61,16 +61,16 @@ expensive, and mostly imported.
 
 ## Current Status
 
-- [x] Phase 1 — Varuna hull fabricated (fiberglass-reinforced EPS)
-- [ ] Phase 2 — Water testing & buoyancy validation
-- [ ] Phase 3 — Electronics integration & sensor calibration
-- [ ] Phase 4 — Autonomous navigation & full system integration
+- [x] Phase 1 -- Varuna hull fabricated (fiberglass-reinforced EPS)
+- [ ] Phase 2 -- Water testing & buoyancy validation
+- [ ] Phase 3 -- Electronics integration (Including Garuda and Matsya) & sensor calibration
+- [ ] Phase 4 -- Autonomous navigation & full system integration
 
 ---
 
 ## Team
 
-**Orion — The Ambition Factory**
+**Orion - The Ambition Factory**
 
 | Name | Institution |
 |------|-------------|
@@ -87,8 +87,8 @@ expensive, and mostly imported.
 
 - 📜 National Dam Safety Act (Civil Infrastructure)
 - ⚓ iDEX & Swavlamban Naval Defence Initiatives (Government of India)
-- 🏭 Make in India — Marine Robotics
+- 🏭 Make in India - Marine Robotics
 
 ---
 
-*TRILOKA Systems — Sky. Surface. Seabed.*
+*TRILOKA Systems - Sky. Surface. Seabed.*
